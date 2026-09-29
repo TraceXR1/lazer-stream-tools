@@ -84,8 +84,8 @@ Then please reference `README.md` files of each submodule
  
 ## tosu modifications
 
-1. added ability to read lazer's fields, namely **scores in multiplayer room**, **chat id of multiplayer room** and **current required mods in multiplayer room** by @TraceXR1 on 2026-09-26
-2. added state `spectating` by @TraceXR1 on 2026-09-26
+1. added ability to read lazer's fields, namely **scores in multiplayer room**, **chat id of multiplayer room** and **current required mods in multiplayer room** by [@TraceXR1](https://github.com/TraceXR1) on 2026-09-26
+2. added state `spectating` by [@TraceXR1](https://github.com/TraceXR1) on 2026-09-26
 
 All diffs can be found in [this repository](https://github.com/TraceXR1/tosu)
 
