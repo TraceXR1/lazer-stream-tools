@@ -1,0 +1,9 @@
+[submodule "osu-tclient"]
+	path = osu-tclient
+	url = https://github.com/TraceXR1/osu-tclient
+[submodule "tosu"]
+	path = tosu
+	url = https://github.com/TraceXR1/tosu
+[submodule "tosu-ipc-emulator"]
+	path = tosu-ipc-emulator
+	url = https://github.com/TraceXR1/tosu-ipc-emulator
