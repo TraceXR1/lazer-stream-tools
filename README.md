@@ -39,8 +39,15 @@ Memory reading is **very version-sensitive**, but this should not be a worry as 
 ## Installation
 
 - Download [latest release](https://github.com/TraceXR1/lazer-stream-tools/releases/latest) for your system
-- Extract the archive
-- Launch #finish-later
+- Extract the folder from the archive
+- Launch `tclient.sh` for Linux or `tclient.bat` for Windows to launch Tournament Overlay
+- On the Setup screen you should see fields for Client ID and Client Secret. Follow [Authorization](#authorization) section for instructions
+- Launch `tosu.sh` for Linux or `tosu.bat` for Windows to launch tosu memory reader
+- Point tournament overlay to the IPC folder location. It should be the `tclient-win/ipc` or `tclient-linux/ipc` depending on your system
+- Done! You can set up your tournament and stream the matches. For guide on tournament setup, reference the [osu! wiki article](https://osu.ppy.sh/wiki/en/osu!_tournament_client)
+
+> [!NOTE]
+> You don't need to launch `tosu` when you're not streaming and just setting up tournament. However, you **do** need to launch it when you're spectating and streaming, or overlay won't receive any data at all
 
 ### Authorization
 
