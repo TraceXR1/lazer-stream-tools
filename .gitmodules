@@ -1,6 +1,6 @@
 [submodule "osu-tclient"]
 	path = osu-tclient
-	url = https://github.com/TraceXR1/osu-tclient
+	url = https://github.com/TraceXR1/osu-tourney-overlay
 [submodule "tosu"]
 	path = tosu
 	url = https://github.com/TraceXR1/tosu
